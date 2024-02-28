@@ -32,15 +32,6 @@
 <h2>Filtro para las películas</h2>
 <p>El filtro se aplica cuando el usuario deja de tipear, de esta manera evitamos enviar múltiples peticiones al servidor, y además, guardamos el parámetro en la query string.</p>
 
-
-
-https://github.com/EricImperiale/laravel-proyecto-1/assets/47151740/c14907f7-9c03-4614-bc61-13c60be4c86e
-
-
-<h2>Estado de conexión</h2>
-![screenshot_proyecto_peliculas_laravel](https://github.com/EricImperiale/laravel-proyecto-1/assets/47151740/54926acc-a2bd-4bb5-9ca5-727aa11f9f6a)
-
-
 <h2>Instalación</h2>
 <h3>Instala Composer</h3>
 <pre>
